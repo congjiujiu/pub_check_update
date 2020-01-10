@@ -15,7 +15,7 @@ NOTE: if you see next warning, just follow it's suggestions
 Then you can run `pcu` in your terminal
 
 ```bash
-pub
+pcu
 ```
 
 ![screenshot.png](/asset/screenshot.png)
@@ -25,3 +25,4 @@ pub
 - dependency_overrides
 - cli args
 - auto update pubspec.yaml file
+- ci & publish to `pub.dev`
