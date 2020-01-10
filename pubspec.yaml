@@ -11,11 +11,11 @@ environment:
   sdk: '>=2.3.0 <3.0.0'
 
 dependencies:
-  args: ^1.5.1
+  args: ^1.5.2
 
   dio: ^3.0.8
 
-  path: ^1.6.3
+  path: ^1.6.4
 
   pub_semver: ^1.4.2
 

@@ -12,7 +12,16 @@ NOTE: if you see next warning, just follow it's suggestions
 > You can fix that by adding this to your shell's config file (.bashrc, .bash_profile, etc.):
 >   export PATH="$PATH":"$HOME/.pub-cache/bin"
 
+Then you can run `pcu` in your terminal
+
+```bash
+pub
+```
+
+![screenshot.png](/asset/screenshot.png)
+
 ### TODO
 
 - dependency_overrides
 - cli args
+- auto update pubspec.yaml file
