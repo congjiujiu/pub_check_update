@@ -1,9 +1,11 @@
 ## pub-check-updates
 
+[![pub package](https://img.shields.io/pub/v/pub_check_updates)](https://pub.dartlang.org/packages/pub_check_updates)
+
 ### Install
 
 ```bash
-pub global activate --source git git@github.com:congjiujiu/pub_check_update.git
+pub global activate pub_check_updates
 ```
 
 NOTE: if you see next warning, just follow it's suggestions

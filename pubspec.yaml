@@ -1,11 +1,10 @@
 name: pub_check_updates
 description: check your pub package's updates
 version: 0.0.1
+homepage: https://github.com/congjiujiu/pub_check_update.git
 
 executables:
   pcu: main
-
-author: Nighting99 <nighting99@gmail.com>
 
 environment:
   sdk: '>=2.3.0 <3.0.0'
